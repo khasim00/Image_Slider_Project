@@ -9,7 +9,7 @@
 
   <h2 align="center">Fitlife - Fitness Website</h2>
 
-  Fitlife is a fully responsive fitness website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Image Slider is a fully responsive website, <br />Designed and developed a dynamic image slider featuring smooth transitions, navigation controls, and responsive layout.
 
   <a href="http://127.0.0.1:5500/index.html"><strong>➥ Live Demo</strong></a>
 
