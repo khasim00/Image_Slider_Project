@@ -7,7 +7,7 @@
   [gh repo clone]:(khasim00/Gym_Website_Project)
   [GitHub repo size]:(https://github.com/khasim00/Gym_Website_Project.git)
 
-  <h2 align="center">Fitlife - Fitness Website</h2>
+  <h2 align="center">IMAGE SLIDER PROJECT</h2>
 
   Image Slider is a fully responsive website, <br />Designed and developed a dynamic image slider featuring smooth transitions, navigation controls, and responsive layout.
 
